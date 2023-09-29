@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Experienced Django Developer with 2.2+ years of expertise in designing and building robust web applications. Proficient in Python, Database Management, Content Management System and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
+Experienced Django Developer with 2.2 years of expertise in designing and building robust web applications. Proficient in Python, database management, content management system and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
 
 
 
@@ -70,9 +70,12 @@ Experienced Django Developer with 2.2+ years of expertise in designing and build
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="45" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="45" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="45" /></a>  
 </div>  
 
 <br/>  
+ 
 
 
 ## Github Stats  
