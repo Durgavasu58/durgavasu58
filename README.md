@@ -1,53 +1,39 @@
-## Hey 👋, I'm Reddy Sri Durgavasu  
-  
-
-<a href="https://github.com/durgavasu58" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sri-durgavasu-reddy-6029521a1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
 
 
 
-### Glad to see you here!  
-Experienced Django Developer with 2.2 years of expertise in designing and building robust web applications. Proficient in Python, database management, content management system and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
 
 
 
-  
-  
-
-<br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Refactored](refactored.ai)  
-  
 
-- 🌱 I’m currently learning DevOps and Kubernetes  
-  
+
+
+<h1 align="center">Hi 👋, I'm Reddy Sri Durgavasu</h1>
+<h3 align="center">A passionate Fullstack Python Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgavasu58&label=Profile%20views&color=0e75b6&style=flat" alt="durgavasu58" /> </p>
+
+- 🔭 I’m currently working on [Refactored](https://refactored.ai/)
+
+- 🌱 I’m currently learning **Devops, Aws, Kubernetes**
+
+- 📄 Know about my experiences :- Experienced Django Developer with 2.2 years of expertise in designing and building robust web applications. Proficient in Python, database management, and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
+
+- 📫 How to reach me **durgavasu58@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 - ❓ Ask me about anything related to Django, Wagtail CMS , Django Rest Framework and related technologies  
-  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sri-durgavasu-reddy-6029521a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sri-durgavasu-reddy-6029521a1" height="30" width="40" /></a>
+</p>
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
@@ -72,10 +58,7 @@ Experienced Django Developer with 2.2 years of expertise in designing and buildi
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="45" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="45" /></a>  
-</div>  
-
-<br/>  
- 
+</p>
 
 
 ## Github Stats  
