@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Devops, Aws, Kubernetes**
 
-- 📄 Know about my experiences :- Experienced Django Developer with 2.2 years of expertise in designing and building robust web applications. Proficient in Python, database management, and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
+- 📄 Know about my experiences :- Experienced Django Developer with 2.2+ years of expertise in designing and building robust web applications. Proficient in Python, database management, and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
 
 - 📫 How to reach me **durgavasu58@gmail.com**
 
