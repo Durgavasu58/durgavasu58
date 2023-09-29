@@ -72,14 +72,11 @@
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=durgavasu58&&style=flat-square)  
-  
-
+ 
 <br/>  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgavasu58&label=Profile%20views&color=0e75b6&style=flat" alt="durgavasu58" /> </p>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
