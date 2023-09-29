@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Experienced Django Developer with 2.2 years of expertise in designing and building robust web applications. Proficient in Python, Database Management, Content Management System and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
+Experienced Django Developer with 2.2+ years of expertise in designing and building robust web applications. Proficient in Python, Database Management, Content Management System and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
 
 
 
