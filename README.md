@@ -15,11 +15,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgavasu58&label=Profile%20views&color=0e75b6&style=flat" alt="durgavasu58" /> </p>
 
-- 🔭 I’m currently working on [Truckker](https://trukker.com/)
+- 🔭 I’m currently working on [Trukker](https://trukker.com/)
 
 - 🌱 I’m currently learning **Devops, Aws, Kubernetes**
 
-- 📄 Know about my experiences :- Experienced Django Developer with **3** years of expertise in designing and building robust web applications. Proficient in Python, database management, and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
+- 📄 Know about my experiences :- Experienced python Developer with **3+** years of expertise in designing and building robust web applications. Proficient in Python, database management, and RESTful API development. Committed to delivering efficient, scalable, and secure solutions.
 
 - 📫 How to reach me **sridurgavasureddy@gmail.com, www.linkedin.com/in/sri-durgavasu-reddy-6029521a1**
 
